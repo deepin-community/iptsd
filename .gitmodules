@@ -1,0 +1,6 @@
+[submodule "iptsd"]
+	path = iptsd
+	url = https://github.com/linux-surface/iptsd.git
+[submodule ".iptsd"]
+	path = .iptsd
+	url = https://github.com/linux-surface/iptsd.git
