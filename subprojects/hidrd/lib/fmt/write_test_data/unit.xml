@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<descriptor xmlns="http://digimend.sourceforge.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://digimend.sourceforge.net hidrd.xsd">
+  <unit>
+    <si_rotation>
+      <radians>2</radians>
+      <gram/>
+      <seconds/>
+    </si_rotation>
+  </unit>
+  <unit>
+    <english_rotation>
+      <degrees/>
+    </english_rotation>
+  </unit>
+  <unit>
+    <none/>
+  </unit>
+  <unit>
+    <si_linear>
+      <centimeter>2</centimeter>
+      <gram/>
+    </si_linear>
+  </unit>
+  <unit>
+    <value>12345678</value>
+  </unit>
+  <unit>
+    <generic system="8">
+      <length/>
+      <time/>
+    </generic>
+  </unit>
+</descriptor>
